@@ -1,0 +1,1 @@
+{\n  "name": "AI-Skills",\n  "version": "1.0.0",\n  "description": "A repository for managing GitHub Copilot skills and SEO tools.",\n  "dependencies": {\n    "skillkit": "^1.0.0",\n    "some-seo-tool": "^1.0.0"\n  },\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "liz4208",\n  "license": "ISC"\n}
