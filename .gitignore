@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE/Editor specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+
+# Other dependencies
+.DS_Store
+*.log
